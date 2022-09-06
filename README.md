@@ -9,4 +9,4 @@ My favorite things:
 - math
 - juggling
 
-[http://marlborough.org](My school)
+[My school](http://marlborough.org)
