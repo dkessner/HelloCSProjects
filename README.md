@@ -1,6 +1,6 @@
 # HelloCSProjects
 
-I was here.
+[Live site](https://dkessner.github.io/HelloCSProjects/)
 
 ## Header level 2
 
